@@ -1,0 +1,42 @@
+[
+  {
+    "nama": "#welcome",
+    "count": 11
+  },
+  {
+    "nama": "#changewelcome",
+    "count": 1
+  },
+  {
+    "nama": "#setwelcome",
+    "count": 2
+  },
+  {
+    "nama": "#tovn",
+    "count": 65
+  },
+  {
+    "nama": "#toimage",
+    "count": 66
+  },
+  {
+    "nama": "#toptv",
+    "count": 11
+  },
+  {
+    "nama": "#setleft",
+    "count": 1
+  },
+  {
+    "nama": "#left",
+    "count": 2
+  },
+  {
+    "nama": "#tomp3",
+    "count": 32
+  },
+  {
+    "nama": "#afk",
+    "count": 11
+  }
+]

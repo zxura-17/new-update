@@ -1,0 +1,576 @@
+[
+  {
+    "jid": "62882020804531@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#welcome",
+        "count": 5
+      },
+      {
+        "nama": "#changewelcome",
+        "count": 1
+      },
+      {
+        "nama": "#tovn",
+        "count": 3
+      },
+      {
+        "nama": "#toimage",
+        "count": 7
+      },
+      {
+        "nama": "#toptv",
+        "count": 5
+      },
+      {
+        "nama": "#afk",
+        "count": 1
+      },
+      {
+        "nama": "#tomp3",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "62856586301691@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#welcome",
+        "count": 1
+      },
+      {
+        "nama": "#setwelcome",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281351692548@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tovn",
+        "count": 45
+      },
+      {
+        "nama": "#toimage",
+        "count": 16
+      },
+      {
+        "nama": "#toptv",
+        "count": 3
+      },
+      {
+        "nama": "#welcome",
+        "count": 1
+      },
+      {
+        "nama": "#tomp3",
+        "count": 9
+      },
+      {
+        "nama": "#afk",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6281312651566@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285220272312@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283178462113@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#welcome",
+        "count": 2
+      },
+      {
+        "nama": "#toimage",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "62881037213811@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#setwelcome",
+        "count": 1
+      },
+      {
+        "nama": "#setleft",
+        "count": 1
+      },
+      {
+        "nama": "#welcome",
+        "count": 2
+      },
+      {
+        "nama": "#left",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6281398274790@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 2
+      },
+      {
+        "nama": "#tomp3",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "62895321046801@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tovn",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "jid": "62882020113931@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tomp3",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "62895617095356@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6283128671683@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6288263919891@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toptv",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "6282193903526@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6289654360174@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tomp3",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285900381320@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281276698054@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tomp3",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6283878455384@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tomp3",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "jid": "6282315345873@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6287834993722@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283137550315@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "6281944128837@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tovn",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6289513081052@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283125156993@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "62881082437658@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "jid": "6283847937617@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 6
+      }
+    ]
+  },
+  {
+    "jid": "6287758873317@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281380592585@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6288808498725@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tovn",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6282118017948@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285973922975@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tomp3",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285939726457@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tovn",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283101191009@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "62881011126502@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6282199509537@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tovn",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6282292516967@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tomp3",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283196320578@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#afk",
+        "count": 1
+      },
+      {
+        "nama": "#tovn",
+        "count": 1
+      },
+      {
+        "nama": "#tomp3",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281703516566@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#afk",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6289512354133@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#afk",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285649558464@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#afk",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6282253492299@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#afk",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6289687349652@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#afk",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6282339162592@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#afk",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "62895342022385@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6281228599963@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      },
+      {
+        "nama": "#tovn",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6285172043314@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6287835427933@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tomp3",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283853426487@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tovn",
+        "count": 2
+      },
+      {
+        "nama": "#tomp3",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6289526960348@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6289678050502@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tomp3",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6281585936002@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6287845151279@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tomp3",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6281248094537@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#toimage",
+        "count": 1
+      },
+      {
+        "nama": "#tomp3",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6287717389163@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tomp3",
+        "count": 2
+      }
+    ]
+  }
+]
